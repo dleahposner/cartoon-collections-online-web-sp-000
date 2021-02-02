@@ -26,7 +26,7 @@ def find_the_cheese(array)
      found_cheese = food
       
   end
-found_cheese
+found_cheese 
 end
 
 def find_the_cheese(array)
