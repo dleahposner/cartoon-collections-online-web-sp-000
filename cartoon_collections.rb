@@ -26,10 +26,10 @@ def find_the_cheese(array)
      found_cheese = food
     # return
     end
-  end
+  
   found_cheese 
 end
-end
+
 # def find_the_cheese(array)
 #   # found_cheese = nil
 #   cheese_types = ["cheddar", "gouda", "camembert"]
@@ -38,4 +38,4 @@ end
       
 #   end
 
-end
+# end
