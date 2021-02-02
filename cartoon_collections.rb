@@ -25,10 +25,10 @@ def find_the_cheese(array)
      cheese_types.include?(food)
      found_cheese = food
     end
-  end
+  
  found_cheese 
 end
-
+end
 # def find_the_cheese(array)
 #   # found_cheese = nil
 #   cheese_types = ["cheddar", "gouda", "camembert"]
