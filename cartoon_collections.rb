@@ -26,15 +26,15 @@ def find_the_cheese(array)
      found_cheese = food
       
   end
-found_cheese 
+ found_cheese 
 end
 
-def find_the_cheese(array)
-  # found_cheese = nil
-  cheese_types = ["cheddar", "gouda", "camembert"]
-  array.find do |food| 
-     cheese_types.include?(food)
+# def find_the_cheese(array)
+#   # found_cheese = nil
+#   cheese_types = ["cheddar", "gouda", "camembert"]
+#   array.find do |food| 
+#     cheese_types.include?(food)
       
-  end
+#   end
 
 end
